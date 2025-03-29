@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<!--
-**imgaurav0001/imgaurav0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gaurav Joshi!
 
-## 👋 Hi, I'm Gaurav Joshi!
-
-🚀 **Aspiring Product Manager | MERN Stack Developer | AI & Data Enthusiast**
+🚀 **Aspiring Software Engineer | Product Manager | MERN Stack Developer | AI Enthusiast**
 
 I'm a BTech-MTech CSE student at **NIET Greater Noida**, passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Digital Transformation**. I love building impactful projects, solving real-world problems, and continuously learning new technologies.
 
@@ -16,15 +13,13 @@ I'm a BTech-MTech CSE student at **NIET Greater Noida**, passionate about **Arti
 - 📈 **Digital Marketing & Business Strategies** – Understanding the product-market fit
 
 ### 📚 What I'm Learning:
-- 🏗 **Building an Instagram Clone** (MERN Stack)
+- 🏗 **Building an Spotify Clone** (MERN Stack)
 - 📊 **Power BI Dashboards & Data Visualization**
 - 🔍 **Product Management & Business Analytics**
 
 ### 📫 Connect with Me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-profile)  
-- ✉️ [Email](mailto:your-email@example.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gauravjoshi327/)   
+- ✉️ [Email](mailto:gauravjoshi327.@gmail.com)  
 
 🔗 **Let's collaborate and build something amazing!**  
 
--->
