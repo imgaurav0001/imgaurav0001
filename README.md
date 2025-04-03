@@ -2,9 +2,9 @@
 
 I'm Gaurav Joshi!
 
-🚀 **Aspiring Software Engineer | Product Manager | MERN Stack Developer | AI Enthusiast**
+🚀 **Aspiring Software Engineer | MERN Stack Developer | Product Manager | AI Enthusiast**
 
-I'm a BTech-MTech CSE student at **NIET Greater Noida**, passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Digital Transformation**. I love building impactful projects, solving real-world problems, and continuously learning new technologies.
+I'm a BTech-MTech CSE student at **NIET Greater Noida**, passionate about **Artificial Intelligence, Full-Stack Development, and Digital Transformation**. I love building impactful projects, solving real-world problems, and continuously learning new technologies.
 
 ### 🔥 What I Do:
 - 💻 **MERN Stack Development** – Building full-stack web apps
